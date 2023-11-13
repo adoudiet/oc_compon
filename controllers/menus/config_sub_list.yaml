@@ -14,9 +14,3 @@ defaultSort:
     column: sort_order
     direction: asc
 recordsPerPage: 50
-showCheckboxes: true
-showSetup: true
-
-defaultSort:
-    column: sort_order
-    direction: asc
